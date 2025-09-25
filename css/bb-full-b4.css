@@ -1,0 +1,20 @@
+.btn {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+.btn-group-sm > .btn,
+.btn-sm {
+    font-size: .875rem;
+    line-height: 1.5;
+}
+.btn-group-lg > .btn,
+.btn-lg {
+    font-size: 1.25rem;
+    line-height: 1.5;
+}
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+  -webkit-appearance: none;
+}
