@@ -31,3 +31,6 @@ define('BB_FULL_B4__VERSION', '2025.9.25');
 
 // Load classes.
 require_once(BB_FULL_B4__PLUGIN_DIR . 'classes/class-bb-full-b4.php');
+
+// Initialize.
+BB_Full_B4::bb_full_b4();
